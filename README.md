@@ -1,6 +1,6 @@
 ### Hi there, i'm Jorge Wellison 👋
 
-- 🔭 I’m currently working as Quality Assurance Analyst at [Phoebus Tecnologia](http://www.phoebus.com.br/)
+- 🔭 I’m currently working as Quality Assurance Lead Analyst PL at [Phoebus Tecnologia](http://www.phoebus.com.br/)
 - 🌱 I’m currently learning test automation
 - 😄 Pronouns: He/Him
 
