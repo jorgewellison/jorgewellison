@@ -1,7 +1,7 @@
 ### Hi there, i'm Jorge Wellison 👋
 
-- 🔭 I’m currently working as Quality Assurance Lead Analyst PL at [Phoebus Tecnologia](http://www.phoebus.com.br/)
-- 🌱 I’m currently learning test automation
+- 🔭 I’m currently working as Quality Assurance Analyst at [Cortex Intelligence](https://www.cortex-intelligence.com/)
+- 🌱 I’m currently learning test automation with Cypress.
 - 😄 Pronouns: He/Him
 
 ![GitHub Followers](https://img.shields.io/github/followers/jorgewellison?style=social) [![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https://www.linkedin.com/in/jorge-wellison-977493b5)](https://www.linkedin.com/in/jorge-wellison-977493b5)
