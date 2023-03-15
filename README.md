@@ -1,6 +1,6 @@
 ### Hi there, i'm Jorge Wellison 👋
 
-- 🔭 I’m currently working as Quality Assurance Analyst at [Cortex Intelligence](https://www.cortex-intelligence.com/)
+- 🔭 I’m currently working as Quality Assurance Analyst
 - 🌱 I’m currently learning test automation with Cypress.
 - 😄 Pronouns: He/Him
 
